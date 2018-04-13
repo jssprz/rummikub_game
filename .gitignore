@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+# exclude PyCharm project configuration
+.idea
+
+# exclude local SQLite data base for initial tests
+db.sqlite3
+
+# exclude media folder from source control
+media
+
+# exclude static folder from source control
+static
